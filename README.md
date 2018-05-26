@@ -201,7 +201,6 @@ Too many nodes will also affect performance.
 ### Help
 If you have any animations that don't work or want me to export them, don't hesitate to write. <br/>
 I'm really interested in seeing what kind of problems the plugin has. <br/>
-my email is **hernantorrisi@gmail.com**
 
 ## Examples
 [See examples on codepen.](http://codepen.io/collection/nVYWZR/) <br/>
